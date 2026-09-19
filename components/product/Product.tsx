@@ -102,7 +102,6 @@ export default function Products() {
             </PaginationItem>
           ))}
 
-          {/* Next */}
           <PaginationItem>
             <PaginationNext
               href="#"

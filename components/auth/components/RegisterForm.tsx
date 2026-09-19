@@ -58,7 +58,6 @@ export function RegisterForm() {
         <CardContent>
           <div className="flex flex-col gap-5">
 
-            {/* Full Name */}
             <div className="grid gap-2">
               <Label htmlFor="fullName">
                 Full Name
@@ -77,7 +76,6 @@ export function RegisterForm() {
               )}
             </div>
 
-            {/* Gender */}
             <div className="grid gap-2">
               <Label htmlFor="gender">
                 Gender
@@ -112,7 +110,6 @@ export function RegisterForm() {
               )}
             </div>
 
-            {/* Date of Birth */}
             <div className="grid gap-2">
               <Label htmlFor="dateOfBirth">
                 Date of Birth
@@ -131,7 +128,6 @@ export function RegisterForm() {
               )}
             </div>
 
-            {/* Email */}
             <div className="grid gap-2">
               <Label htmlFor="email">
                 Email
@@ -151,7 +147,6 @@ export function RegisterForm() {
               )}
             </div>
 
-            {/* Password */}
             <div className="grid gap-2">
               <Label htmlFor="password">
                 Password
@@ -170,7 +165,6 @@ export function RegisterForm() {
               )}
             </div>
 
-            {/* Confirm Password */}
             <div className="grid gap-2">
               <Label htmlFor="confirmPassword">
                 Confirm Password
